@@ -1,0 +1,11 @@
+{
+	"sql": {
+		"host": "localhost",
+		"user": "root",
+		"password": "",
+		"database": "tbl_member"
+	},
+	
+	"token":"OTM0ODA2MTM5MjQwMDg3NTky.Ye1cDw.6S2AUKyFKy_5A3EcmlIghmQEr4c",
+	"prefix":"!"
+}
